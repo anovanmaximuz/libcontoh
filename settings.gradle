@@ -1,0 +1,2 @@
+include ':app', ':anolibrary'
+rootProject.name='My Library'
